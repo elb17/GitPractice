@@ -1,6 +1,0 @@
-#GitEssentials
-
-
-Hllllloooo
-Goodbye
-Hllllloooo
