@@ -1,4 +1,4 @@
 #GitEssentials
 
 
-Let's try using branchesgoodbye
+Let's make a merge conflict.
